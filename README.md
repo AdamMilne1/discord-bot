@@ -1,5 +1,4 @@
 # discord-bot
-Code for discord bot + commands
 
 Currently only 1 command built.
 
